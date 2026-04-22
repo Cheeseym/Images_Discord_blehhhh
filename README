@@ -1,0 +1,7 @@
+echo "# Images_Discord_blehhhh" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Cheeseym/Images_Discord_blehhhh.git
+git push -u origin main
